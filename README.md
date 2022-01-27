@@ -3,7 +3,6 @@
 <h4 align="center">Roblox textures deleter</h4>
 <p align="center">
 	<a href="https://github.com/I2rys/RoTextDel/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/RoTextDel?style=flat-square"></img></a>
-	<a href="https://github.com/I2rys/RoTextDel"><img src="https://bettercodehub.com/edge/badge/I2rys/RoTextDel?branch=main"></a>
 	<a href="https://github.com/I2rys/RoTextDel/issues"><img src="https://img.shields.io/github/issues/I2rys/RoTextDel.svg"></img></a>
 	<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"></img></a>
 </p>
