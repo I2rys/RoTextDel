@@ -15,8 +15,4 @@ if(Fs.existsSync(`C:\\Users\\${Os.userInfo().username}\\AppData\\Local\\Roblox`)
             Fs.rmdirSync(`C:\\Users\\${Os.userInfo().username}\\AppData\\Local\\Roblox\\Versions\\${versions[versions.length-1]}\\PlatformContent\\pc\\textures\\${folders[i].name}`, { recursive: true })
         }
     }
-
-    process.exit()
-}else{
-    process.exit()
 }
